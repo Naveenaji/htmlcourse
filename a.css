@@ -1,0 +1,30 @@
+.ms{
+    background-color: aqua;
+}
+.row{
+    width: 100%;
+    display: flex;
+
+    gap: 20px;
+}
+.js{
+    
+    background-color:gray;;
+}
+.ss{
+    
+    background-color:orchid;
+}
+.fs{
+    
+    background-color:antiquewhite;
+}
+.ts{
+    
+    background-color:red;
+}
+.hs{
+    
+    background-color:navy;
+}
+
